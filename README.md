@@ -2,19 +2,19 @@
 
 ## Overview
 
-The project utilizes the Hindustan Times RSS feed API to fetch astrology updates regularly. It then processes the retrieved data to extract relevant information such as daily horoscopes, astrological predictions, and other astrology-related news. This information is then used to generate desktop notifications using the DesktopNotifier module, keeping users informed about the latest astrology updates.
+The project utilizes the newsapi API to fetch TechCrunch updates . It then processes the retrieved data to extract relevant information . This information is then used to generate desktop notifications using the DesktopNotifier module, keeping users informed about the latest TechCrunch updates.
 
 ## Features (In development)
 
-- Fetch astrology updates from the Hindustan Times RSS feed API.
-- Process the retrieved data to extract relevant astrology information.
+- Fetch TechCrunch updates from the Hindustan Times RSS feed API.
+- Process the retrieved data to extract relevant TechCrunch information.
 - Generate desktop notifications using the DesktopNotifier Python module.
 - Customize notification settings such as title, message, and duration.
 
 ## Technologies Used
 
 - Python
-- Hindustan Times RSS feed API
+- newsapi feed API
 - "DesktopNotifier" Python module
 
 ## Usage
