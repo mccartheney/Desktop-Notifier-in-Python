@@ -28,9 +28,15 @@ The project utilizes the newsapi API to fetch TechCrunch updates . It then proce
 ```bash
   cd Desktop-Notifier-in-Python
 ```
+
 3. Install the required Python packages:
 ```bash
   pip install -r requirements.txt
+```
+
+4. Add in .env file your api key from [newsapi](https://newsapi.org/)
+```bash
+    API_KEY = api_key
 ```
 
 ## License
