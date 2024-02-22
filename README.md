@@ -4,7 +4,7 @@
 
 The project utilizes the newsapi API to fetch TechCrunch updates . It then processes the retrieved data to extract relevant information . This information is then used to generate desktop notifications using the DesktopNotifier module, keeping users informed about the latest TechCrunch updates.
 
-## Features (In development)
+## Features 
 
 - Fetch TechCrunch updates from the Hindustan newsapi API.
 - Process the retrieved data to extract relevant TechCrunch information.
@@ -36,7 +36,7 @@ The project utilizes the newsapi API to fetch TechCrunch updates . It then proce
 
 4. Add in .env file your api key from [newsapi](https://newsapi.org/)
 ```bash
-    API_KEY = api_key
+  API_KEY = api_key
 ```
 
 ## License
