@@ -6,7 +6,7 @@ The project utilizes the newsapi API to fetch TechCrunch updates . It then proce
 
 ## Features (In development)
 
-- Fetch TechCrunch updates from the Hindustan Times RSS feed API.
+- Fetch TechCrunch updates from the Hindustan newsapi API.
 - Process the retrieved data to extract relevant TechCrunch information.
 - Generate desktop notifications using the DesktopNotifier Python module.
 - Customize notification settings such as title, message, and duration.
@@ -45,5 +45,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- Hindustan Times for providing the RSS feed API.
+- Hindustan Times for providing the newsapi API.
 - Developers of the DesktopNotifier Python module for enabling desktop notifications.
