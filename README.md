@@ -45,5 +45,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- Hindustan Times for providing the newsapi API.
+- newapi for providing the newsapi API.
 - Developers of the DesktopNotifier Python module for enabling desktop notifications.
